@@ -5,5 +5,5 @@
 3. Persistence
 4. API Documentation
 5. Testing
-6. Containerization
-7. Security Considerations
+6. Security Considerations
+7. READY.
